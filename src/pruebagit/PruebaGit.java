@@ -15,7 +15,12 @@ public class PruebaGit {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
+<<<<<<< HEAD
         System.out.println("Adios");
+=======
+        // TODO code application logic here
+        System.out.println("Hola");
+>>>>>>> 7bab74c161e4de7a9ed3d579d1e568feb6d2eb1b
     }
     
 }
